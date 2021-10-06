@@ -1,0 +1,65 @@
+body{
+    color: white;
+}
+.container{
+    width: 1024px;
+    min-height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 60px;
+    margin-bottom: 3%;
+    margin-top: 2%;
+}
+.logo{
+    margin-left: -30%;
+}
+.arbejde{
+    margin-left: -28.5%;
+    margin-top: 1%;
+    font-size: 140%;
+}
+
+.knap{
+    font-size: 250%;
+    margin-right: -19%;
+}
+main{
+    margin-top: 5%;
+    margin-bottom: 9%;
+}
+.knapper{
+    display: flex;
+    justify-content: center;
+    margin-top: 1%;
+    margin-bottom: 8%;
+}
+.flows{
+    margin-left: 13%;
+    margin-bottom: 2%;
+}
+.videoer{
+    margin-top: -5%;
+    margin-bottom: -1.4%;
+    margin-left: -5%;
+}
+.indhold{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: -25%;
+    width: -10%;
+
+}  
+p{
+    color: black;
+}
+.video2{
+    padding-left: 25cm;
+}
+.video4{
+    padding-left: 25cm;
+}

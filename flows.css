@@ -1,0 +1,81 @@
+body{
+    color: white;
+}
+.container{
+    width: 1024px;
+    min-height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 60px;
+    margin-bottom: 3%;
+    margin-top: 2%;
+}
+.logo{
+    margin-left: -30%;
+}
+.arbejde{
+    margin-left: -28.5%;
+    margin-top: 1%;
+    font-size: 140%;
+}
+
+.knap{
+    font-size: 250%;
+    margin-right: -19%;
+}
+.knapper{
+    display: flex;
+    justify-content: center;
+    margin-top: 1%;
+    margin-bottom: 3%;
+}
+main{
+    margin-top: 5%;
+    margin-bottom: 4%;
+}
+.flows{
+    margin-left: 13%;
+    margin-bottom: 2%;
+}
+.flow1{
+    margin-top: -0%;
+    margin-bottom: -1.4%;
+    margin-left: -0%;
+}
+.flow1{
+    display: flexbox;
+}
+p{
+    color: black;
+    display: flex;
+    margin-left: 50%;
+    font-family: 'Franklin Gothic Medium';
+
+}
+.flow1{
+    padding-right: 50%;
+    display: flexbox;
+}
+
+.flow1{
+    padding-left: 1cm;
+    padding-right: 1cm;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+    margin-left: -20% ;
+}
+.opg1{
+    margin-top: 5%;
+    margin-bottom: 0%;
+    padding-right: 10%;
+    padding-bottom: 12cm;
+}
+.opg2{
+    margin-right: -20%;
+    margin-left: 22%;
+}
